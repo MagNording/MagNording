@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>A Java developer student</h3>
 </div>
+<br><br>
 
 * 🔭 I’m currently working on a React project
 
