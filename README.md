@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 * 🎓 Student at IT-Högskolan
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=flat)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
