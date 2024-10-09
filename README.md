@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 * 🔭 I’m currently working on a React project
 
-* 📫 Contact me: magnus.nording@iths.se
-
 * 🎓 Student at IT-Högskolan
+
+* 📫 Contact me: magnus.nording@iths.se
 
 ### 🛠️ Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
