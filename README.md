@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <h1>Hi, I'm Magnus!</h1>
+</div>
+<div align="center">
   <h3>A Java developer student</h3>
 </div>
 
