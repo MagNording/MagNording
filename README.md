@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h1>Hi, I'm Magnus!</h1>
 </div>
 <div align="center">
-  <h3>A Java developer student</h3>
+  <h3>A software developer student</h3>
 </div>
 <br>
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=flat)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
