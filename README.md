@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-* 🔭 I’m currently working on a React project
+* 🔭 I’m currently working on learning dotnet, minimal APIs, MongoDB and Docker.
 
 * 🎓 Student at IT-Högskolan
 
